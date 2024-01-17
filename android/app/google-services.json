@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696975274068",
+    "project_id": "policefineproject",
+    "storage_bucket": "policefineproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696975274068:android:8b2e20650e6d69185ebdc1",
+        "android_client_info": {
+          "package_name": "com.example.policefinefinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUlcjjJNwSkdGxKn-UDZsngtKdMv9S0_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
